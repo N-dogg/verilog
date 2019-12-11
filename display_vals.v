@@ -1,5 +1,5 @@
 module testbench;
-  integer    int_a;         // Integer variable
+  integer    int_a;         // Data type declaration - Integer variable
   real     real_b;       // Real variable
   time     time_c;       // Time variable
  
