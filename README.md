@@ -8,3 +8,4 @@ Files:
 - hello_world.v: you kow what it does
 - display_vals.v: initialising different types of variables and displaying them
 - port_dec.v: basic port list and port declaration
+- LED.v: flashing LED
